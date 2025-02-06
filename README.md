@@ -54,4 +54,3 @@ n               | p_n             | epsilon
 
 Nice thing about this version is you can give anywhere from 1 to infinity series (okay, not infinity)
 
-Also, I like Pandas a bit better, but this was just for fun.
