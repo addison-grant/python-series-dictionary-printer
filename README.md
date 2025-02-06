@@ -1,7 +1,4 @@
 # python-series-dictionary-printer
- Print a sequence of series in Python (better to use Pandas or some other library, probably)
-
-Learned a little bit about formatting strings in Python this evening:
 
 ```python
 def print_table(series_dictionary):
